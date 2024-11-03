@@ -1,5 +1,7 @@
 bazel_dep(name = "rules_java", version = "7.11.1")
-bazel_dep(name = "rules_jvm_external", version = "4.5")
+bazel_dep(name = "rules_jvm_external", version = "5.3")
+bazel_dep(name = "rules_kotlin", version = "1.9.1")
+
 maven = use_extension("@rules_jvm_external//:extensions.bzl", "maven")
 maven.install(
     artifacts = [

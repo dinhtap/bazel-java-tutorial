@@ -1,6 +1,6 @@
-package com.example.cmdline;
+package com.kotlinexample.kotlinrunner;
 
-import com.example.GreetingKotlin;
+import com.kotlinexample.GreetingKotlin;
 
 public class RunnerKotlin {
     public static void main(String args[]) {

@@ -1,6 +1,6 @@
-package com.example.cmdline;
+package src.main.java.com.example.cmdline;
 
-import com.example.Greeting;
+import src.main.java.com.example.Greeting;
 
 import org.apache.commons.cli.Options;
 import org.apache.commons.cli.CommandLineParser;

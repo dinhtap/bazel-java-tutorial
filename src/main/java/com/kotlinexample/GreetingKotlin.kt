@@ -1,4 +1,4 @@
-package com.example
+package com.kotlinexample
 
 class GreetingKotlin {
     companion object {
